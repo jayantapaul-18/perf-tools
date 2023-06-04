@@ -1,12 +1,14 @@
-Purpose of this project is to create a desktop application for organize and create diffrent tools!
+# Perf Tools Dashboard
 
-**Boilerplate Code**
+## Available Scripts
 
-mkdir perf-tools
-cd perf-tools
-npx create-react-app perf-tools-dashboard
-npm i -D electron electron-is-dev
-npm i -D concurrently wait-on
-npm run dev
+In the project directory, you can run:
 
-[Link to localhost Electron / React App](http://localhost:3000)
+```bash
+Runs the app in the development mode.\
+Open [http://localhost:3002](http://localhost:3002) to view it in your browser.
+The page will reload when you make changes.\
+npm test
+npm run build
+npm run build` fails to minify
+```
